@@ -1,2 +1,1 @@
-# Prank
-Prankanul duraka
+# просто
